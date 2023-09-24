@@ -20,7 +20,7 @@ app.use(methodOverride(function (req, res) {
     }
 }));
 
-<!-- Demo on Github Webhooks -->
+<!-- Demo by Dinesh Mali -->
 
 
 let todolist = [];
